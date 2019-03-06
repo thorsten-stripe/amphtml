@@ -26,6 +26,7 @@ const TYPES = exports.TYPES = {
 };
 
 exports.extensionBundles = [
+  {name: 'amp-stripe-elements', version: '0.1', type: TYPES.MISC}, 
   {
     name: 'amp-3d-gltf',
     version: '0.1',
